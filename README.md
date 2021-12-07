@@ -2,7 +2,7 @@
 ## KeepLearning :
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
-- 🔭 I’m currently working on: Kaggle Notebooks in my freetime. 
+- 🔭 I’m currently working on: Building my DataScience portfolio.
 - 🌱 I’m currently learning: Pyspark
 - 👯 I’m looking to collaborate on: Kaggle Competitions/Data Science for social good projects
 - 🤔 I’m looking for help with : Project guidance for my portfolio
