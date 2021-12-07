@@ -1,5 +1,7 @@
 ## Shasank Dave
 
+[<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/linkedIn.JPG">](www.linkedin.com/in/shasankdave)
+
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
 - 🔭 I’m currently working on: Building my DataScience portfolio.
