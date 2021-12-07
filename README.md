@@ -5,10 +5,10 @@ I am a software engineer(GoLang|Ab>Initio) with agile mindset
 ## KeepLearning :
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
-- 🔭 I’m currently working on: Kaggle Notebooks in my freetime on weekends.
-- 🌱 I’m currently learning: Pyspark & Tableau
-- 👯 I’m looking to collaborate on: Kaggle Competitions(To Get Started)
-- 🤔 I’m looking for help with : Writing Datascience blog posts & Mentoring on Data science projects
+- 🔭 I’m currently working on: Kaggle Notebooks in my freetime. 
+- 🌱 I’m currently learning: Pyspark
+- 👯 I’m looking to collaborate on: Kaggle Competitions/Data Science for social good projects
+- 🤔 I’m looking for help with : Project guidance for my portfolio
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
 - ⚡ Fun fact: StayCurious & Experimenting in life!
