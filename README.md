@@ -1,5 +1,7 @@
 ## Shasank Dave
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="shasank-dave-76b04536" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/shasank-dave-76b04536?trk=profile-badge">Shasank Dave</a></div>
               
 
