@@ -1,7 +1,3 @@
-### Shasank Dave
-I am a software engineer(GoLang|Ab>Initio) with agile mindset
-
-#### Software Engineer | Google Tensorflow Certified | DataScience Explorer | Curious Child
 ## KeepLearning :
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
