@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with : Project guidance for my portfolio
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
-- 🔭 Github: https://github.com/ShasankDave
+- 🔭 Github: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ShasankDave)
 - ⚡ Fun fact: StayCurious & Experimenting!
 
 # DataScience Learning via MOOCs so far :
