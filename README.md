@@ -1,6 +1,6 @@
 ## Shasank Dave [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
 
-[<img src="https://github.com/ShasankDave/shasankdave.github.io/blob/main/linkedIn.JPG">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
+[<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/linkedIn.JPG">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
 
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
