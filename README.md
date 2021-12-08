@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with : Project guidance for my portfolio
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
-- ⚡ Fun fact: StayCurious & Experimenting in life!
+- ⚡ Fun fact: StayCurious & Experimenting!
 
 # DataScience Learning via MOOCs so far :
 [Google Tensorflow Certified](https://www.credential.net/a19b5937-1ae2-4119-8e58-4143ee1b6590) <br/>
