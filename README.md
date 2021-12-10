@@ -11,7 +11,7 @@
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
 - 🔭 Github: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ShasankDave)
-- ⚡ Fun fact: StayCurious & Experimenting!
+- ⚡ Fun fact: StayCurious & Ask questions!
 
 # DataScience Learning via MOOCs so far :
 [Google Tensorflow Certified](https://www.credential.net/a19b5937-1ae2-4119-8e58-4143ee1b6590) <br/>
