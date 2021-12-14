@@ -1,6 +1,9 @@
-## Shasank Dave [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
+## Shasank Dave [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 [<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/linkedIn.JPG">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
+
+## Skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
@@ -9,7 +12,7 @@
 - 👯 I’m looking to collaborate on: Kaggle Competitions/Data Science for social good projects
 - 🤔 I’m looking for help with : Project guidance for my portfolio
 - 💬 Ask me about: "Ask me anything about data!"
-- 📫 How to reach me: shasankdave@gmail.com
+- 📫 How to reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : shasankdave@gmail.com 
 - 🔭 Github: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ShasankDave)
 - ⚡ Fun fact: StayCurious & Ask questions!
 
