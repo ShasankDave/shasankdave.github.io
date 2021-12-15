@@ -8,7 +8,7 @@
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
 - 🔭 I’m currently working on: Building my DataScience portfolio.
-- 🌱 I’m currently learning: Pyspark
+- 🌱 I’m currently learning: EDA & Feature Engineering.
 - 👯 I’m looking to collaborate on: Kaggle Competitions/Data Science for social good projects
 - 🤔 I’m looking for help with : Project guidance for my portfolio
 - 💬 Ask me about: "Ask me anything about data!"
@@ -24,6 +24,7 @@
 [Google Data Analytics Professional](https://coursera.org/share/4501cc94cd0e8a49b20edfba0a28bde2) <br/>
 [AWS Deeplearning Practical Data Science](https://coursera.org/share/e2ab55b37b4e90f1c199b7c8971e3fee) <br/>
 [DataCamp: Tableau Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/291b0da5a59e2b7b585255572ab44b79f0bf2b3a) <br/>
+[DataCamp: BigData with PySpark Track](https://www.datacamp.com/statement-of-accomplishment/track/09089c7ade0250464950974836dcf9df2b143ff0) <br/>
 
 # Agile/Scrum :
 [Professional Scrum Master-PSM1] (https://www.scrum.org/certificates/377755) 
