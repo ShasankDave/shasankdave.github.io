@@ -4,10 +4,10 @@
 
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
-- 🔭 I’m currently working on: Building my ML portfolio.
+- 🔭 I’m currently working on: GCP Community Presence via blogs.
 - 🌱 I’m currently learning: Data Engineering on Google Cloud Platform
 - 👯 I’m looking to collaborate on: Data Science for social good projects
-- 🤔 I’m looking for help with : GCP/ML
+- 🤔 I’m looking for help with : GCP/ML blogging & building community presence.
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me : ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : shasankdave@gmail.com **OR** [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge) 
 - 🔭 Github: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ShasankDave)
@@ -24,7 +24,6 @@
 ![Coursera:Google Data Analytics](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20-yellow)[Google Data Analytics Professional](https://coursera.org/share/4501cc94cd0e8a49b20edfba0a28bde2) <br/>
 ![Coursera: Deeplearning](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)![Deeplearning](https://img.shields.io/badge/AWS%20Data%20Science%20in%20Practice-DeepLearning.ai-red)[AWS Deeplearning Practical Data Science](https://coursera.org/share/e2ab55b37b4e90f1c199b7c8971e3fee) <br/>
 ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)[DataCamp: Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/ccb4ffeba9febfa6dce4d09f0a302af2695b801e) <br/>
-![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)[DataCamp: Tableau Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/291b0da5a59e2b7b585255572ab44b79f0bf2b3a) <br/>
 ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)[DataCamp: BigData with PySpark](https://www.datacamp.com/statement-of-accomplishment/track/09089c7ade0250464950974836dcf9df2b143ff0) <br/>
 ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)[DataCamp: Data Engineer with Python](https://www.datacamp.com/statement-of-accomplishment/track/83e4f1eb4943771542a53fc7644bf8a3d63f6f11)<br/>
 
