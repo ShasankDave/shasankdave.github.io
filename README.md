@@ -1,14 +1,11 @@
-# Shasank Dave 
-[<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/Profile.png">]
-
-(https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
-
-![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
+# Shasank Dave  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge) 
+<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/Profile.png" style="width:500px;"/>
 
 - 🌱 I’m currently learning: Data Engineering on Google Cloud Platform
 - 👯 I’m looking to collaborate on: Data Science for social good projects
 - 🤔 I’m looking for help with : Smart Analytics(VertexAI) on Google Cloud Platform & Building Developers community presence.
 - 💬 Ask me about: "Ask me anything about data!"
+- 💬 DataToAI Newsletter Please subscribe: https://datatoai.substack.com/ 
 - 📫 How to reach me : ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : shasankdave@gmail.com **OR** [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge) 
 - 🔭 Github: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ShasankDave)
 - ⚡ Fun fact: StayCurious & Ask questions!
