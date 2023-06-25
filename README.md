@@ -1,6 +1,4 @@
 # Shasank Dave 
-
-[<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/linkedIn.JPG">]
 [<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/Profile.png">]
 
 (https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
