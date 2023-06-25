@@ -1,6 +1,9 @@
 # Shasank Dave 
 
-[<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/linkedIn.JPG">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
+[<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/linkedIn.JPG">]
+[<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/Profile.png">]
+
+(https://nl.linkedin.com/in/shasankdave?trk=profile-badge)
 
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
