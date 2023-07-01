@@ -1,5 +1,5 @@
 # Shasank Dave  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://nl.linkedin.com/in/shasankdave?trk=profile-badge) 
-<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/Landing_Page.jpg" style="width:950px;"/>
+<img src="https://raw.githubusercontent.com/ShasankDave/shasankdave.github.io/main/Landing_Page1.jpg" style="width:950px;"/>
 
 - 🌱 I’m currently learning: Data Engineering on Google Cloud Platform
 - 👯 I’m looking to collaborate on: Data Science for social good projects
